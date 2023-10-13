@@ -1,0 +1,16 @@
+.idea/
+__pycache__/
+venv
+*.pth
+*.pyc
+*.ckpt
+
+*.jpg
+*.png
+*.PNG
+*.JPG
+
+test.py
+
+*.log
+logs
